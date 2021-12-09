@@ -1,0 +1,12 @@
+# jemdoc: menu{MENU}{project.html}
+= Research Projects
+
+== Data-Efficient Deep Learning Perception for Robotics
+- This research topic aims to achieve the data-efficient intelligent vision perception and reasoning for smart robotics using deep learning. Autonomous robotics requires the perception and reasoning intelligence to provide the capabilities for environment understanding and decision making,  so that it can perform tasks, either semi- or fully autonomously. However, due to the real-world data scarcity and deployment flexibility, big data setting is always valid or available for robotics deep learning, and learning with data-efficiency is essential for the AI in robotics. This research will focus on improving deep learning sample efficiency using machine learning techniques, where the application can be the various robotics perception and reasoning tasks.
+
+== Deep Learning Based Unknown Object Grasping and Manipulation Technology for Robotics
+- This research topic leverages the recent advances of Artificial Intelligence (AI) in perception, reasoning, planning for developing robotic handling solutions and bridges critical gaps so as to enable the autonomous robotic handling of unknown objects in complex, clustered, and unstructured environment. The goal of this project is to enable and simplify the deployment of robotic handling solutions, in particular for security and safety applications where requirements are more stringent on precision, performance, reliability, and robustness.
+
+
+
+

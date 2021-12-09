@@ -1,0 +1,62 @@
+# jemdoc: menu{MENU}{publication.html}
+= Publications
+[https://scholar.google.com.sg/citations?user=uO_R9wQAAAAJ&hlc \[Google Scholar\]]
+
+* represents correspongding author
+
+== Robotics and Artificial Intelligence
+=== *Journal Papers*
+. *H. Zhu*, X. Li, W. Chen, X. Li, J. Ma, C. S. Teo, T. J. Teo, W. Lin, Weight Imprinting Classification-Based Force Grasping With a Variable-Stiffness Robotic Gripper, /IEEE Transactions on Automation Science and Engineering/, 2021
+
+
+=== *Conference Papers*
+. Y. Li, *H. Zhu**, Y. Cheng, W. Wang, C. S. Teo, C. Xiang, P. Vadakkepat, T. H. Lee, Few-Shot Object Detection via Classification Refinement and Distractor Retreatment, /IEEE\/CVF Conference on Computer Vision and Pattern Recognition (CVPR)/, 2021
+. *H. Zhu*, Y. Li, F. Bai, W. Chen, X. Li, J. Ma, C. S. Teo, P. Y. Tao, W. Lin, Grasping Detection Network with Uncertainty Estimation for Confidence-Driven Semi-Supervised Domain Adaptation, /International Conference on Intelligent Robots and Systems (IROS)/, 2020
+. X. Li, *H. Zhu**, J. Ma, T. J. Teo, C. S. Teo, M Tomizuka, T. H. Lee, Learning-Based Controller Optimization for Repetitive Robotic Tasks
+International Conference on Intelligent Robots and Systems (IROS), 2020
+
+
+== Mechatronics and Control
+=== *Journal Papers*
+. S. Zhang, *H. Zhu**, X. He, Y. Feng, C.K. Pang, Passivity-based Coupling Control for Underactuated Three-Dimensional Overhead Cranes, /ISA transactions/, 2021
+. J. Ma, Z. Cheng, *H. Zhu**, X. Li, M. Tomizuka, T. H. Lee, Convex Parameterization and Optimization for Robust Tracking of a Magnetically Levitated Planar Positioning System, /IEEE Transactions on Industrial Electronics/, 2021
+. J. Ma, Z. Cheng, W. Wang, X. Li, *H. Zhu**, C.W. De Silva, T. H. Lee, Convex Inner Approximation for Mixed H2\/H-Infinity Control with Application to a 2-DoF Flexure-Based Nano-Positioning System, /IEEE Transactions on Industrial Electronics/, 2021
+. J. Ma, *H. Zhu**, M. Tomizuka, T. H. Lee, On robust stability and performance with a fixed-order controller design for uncertain systems, /IEEE Transactions on Systems, Man, and Cybernetics: Systems/, 2021
+. X. Li, *H. Zhu*(co-first author), W. Lin, W. Chen, K.H. Low, Structure-Controlled Variable Stiness Robotic Joint Based on Multiple Rotary Flexure Hinges, /IEEE Transactions on Industrial Electronics/, 2021
+. W. Wang, J. Ma\*, X. Li, Z. Cheng, *H. Zhu*, C. S. Teo, T. H. Lee, Iterative super-twisting sliding mode control for tray indexing system with unknown dynamics, /IEEE Transactions on Industrial Electronics/, 2020
+. X. Li, *H. Zhu**, J. Ma, T. J. Teo, C. S. Teo, M. Tomizuka, T. H. Lee, Data-Driven Multiobjective Controller Optimization for a Magnetically Levitated Nanopositioning System, /IEEE\/ASME Transactions on Mechatronics/,	2020
+. S. Zhang, X. He*, *H. Zhu*, Q. Chen, Y. Feng, Partially Saturated Coupled-Dissipation Control for Underactuated Overhead Cranes
+/Mechanical Systems and Signal Processing/, 2020
+. *H. Zhu*, T. J. Teo, C. K. Pang, Magnetically levitated Parallel Actuated Dual-Stage (Maglev-PAD) System for Six-Axis Precision Positioning /IEEE\/ASME Transactions on Mechatronics/, 2019
+. *H. Zhu*, C. K. Pang, T. J. Teo, Dual-Axis Control of Flexure-Based Motion System for Optical Fibre Transceiver Assembly Using Fixed-Order Controller, /ISA transactions/, 2019
+. *H. Zhu*, T. J. Teo, C. K. Pang, Flexure-Based Magnetically Levitated Dual-Stage System for High-Bandwidth Positioning, /IEEE Transactions on Industrial Informatics/, 2019
+. *H. Zhu*, T. J. Teo, C. K. Pang, Analytical Model-Based Multiphysics Optimization of a Nanopositioning Electromagnetic Actuator, /IEEE Transactions on Industrial Electronics/, 2018
+. *H. Zhu*, C. K. Pang, T. J. Teo, Analysis and Control of a 6 DOF Maglev Positioning System with Characteristics of End-Effects and Eddy Current Damping, /Mechatronics/, 2017
+. *H. Zhu*, C. K. Pang, T. J. Teo, A Flexure-Based Parallel Actuation Dual-Stage System for Large-Stroke Nanopositioning, /IEEE Transactions on Industrial Electronics/, 2017
+. *H. Zhu*, T. J. Teo, C. K. Pang, Design and Modeling of a Six-Degree-of-Freedom Magnetically Levitated Positioner using Square Coils and 1-D Halbach Arrays, /IEEE Transactions on Industrial Electronics/, 2016
+. T. J. Teo, *H. Zhu*, S.L. Chen, G. Yang, C. Pang, Principle and Modeling of A Novel Moving Coil Linear-Rotary Electromagnetic Actuator, /IEEE Transactions on Industrial Electronics/, 2016
+. *H. Zhu*, C. K. Pang, T. J. Teo, Integrated Servo-Mechanical Design of a Fine Stage for a Coarse/Fine Dual-Stage Positioning System, /IEEE\/ASME Transactions on Mechatronics/, 2015
+. T. J. Teo, *H. Zhu*, C. K. Pang, Modeling of a Two Degrees-of-Freedom Moving Magnet Linear Motor for Magnetically Levitated Positioners, /IEEE Transactions on Magnetics/, 2014
+
+
+
+== *Conference Papers*
+. S. Zhang, X. He\*, *H. Zhu*, Y. Feng, Q. Chen, Z. Zhu, X. Li, Adaptive SMC-based Trajectory Tracking Control of Underactuated Overhead Cranes, /2020 IEEE 9th Data Driven Control and Learning Systems Conference (DDCLS)/, 2020
+. W. Wang, J. Ma\*, X. Li, *H. Zhu*, C. S. Teo, T. H. Lee, Iterative Super-Twisting Sliding Mode Control: A Case Study on Tray Indexing, /IEEE\/ASME International Conference on Advanced Intelligent Mechatronics (AIM)/, 2020
+*H. Zhu*, X. Li, W Chen, C Zhang, Flexure-Based Variable Stiffness Gripper for Large-Scale Grasping Force Regulation with Vision, /International Conference on Intelligent Robotics and Applications/, 2019
+. D. Liu, W. Liang, *H. Zhu*, C. S. Teo, K. K. Tan, Development of a Distributed Bernoulli Gripper for Ultra-Thin Wafer Handling, /IEEE International Conference on Advanced Intelligent Mechatronics (AIM)/, 2017
+. *H. Zhu*, T. J. Teo, C. K. Pang, W Liang, Integrated Design of a Secondary Stage for Magnetically Levitated Dual-Stage Positioning System, /IEEE International Conference on Advanced Intelligent Mechatronics (AIM)/, 2017
+. *H. Zhu*, C. K. Pang, T. L. Law, T. J. Teo, Design and Control of a Six Degrees-of-Freedom Magnetically Levitated Positioning System, /IFAC-PapersOnLine/, 2016
+. *H. Zhu*, T. J. Teo, C. K. Pang, Analysis of Force Harmonics and Eddy Current Damping for 2 DOF Moving Magnet Linear Motor, /Annual Conference of the IEEE Industrial Electronics Society (IECON)/, 2015
+. *H. Zhu*, C. K. Pang, T. J. Teo, L. T. Marek, Modeling and Design of a Size and Mass Reduced Magnetically Levitated Planar Positioner, /Annual Conference of the IEEE Industrial Electronics Society (IECON)/, 2014
+. *H. Zhu*, T. J. Teo, C. K. Pang, Conceptual Design and Modeling of a Six Degrees-Of-Freedom Unlimited Stroke Magnetically Levitated Positioner, /IEEE\/ASME International Conference on Advanced Intelligent Mechatronics (AIM)/, 2014
+
+
+
+
+
+
+
+
+
+
